@@ -1,0 +1,14 @@
+It is a collection of devices that initiate input operation?
+Terminates the current loop and resumes execution at the next statement?
+What are the three types of loops? Except
+Also known as a relational operator?
+Who developed Python?
+It is an individuals choice to decide which programing Languages he/she should learn?
+Display important information about the system?
+It is an electronic and programmable device that manipulates information or data?
+It refers to the degree of exactness with which computation are made and operations are performed?
+These are the devices that used to display all processed data or the result?
+It is a process that enables a computer to retain data, either temporarily or permanetly?
+It is a language that is very easily understood by a computer but hard to understand for humans?
+What are the skill required for programing? Except
+Is very famous because of its, simple programing syntax-code readability-English Like Commands?
